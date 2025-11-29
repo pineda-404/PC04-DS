@@ -14,6 +14,7 @@ Implementación de arquitectura Zero Trust usando Docker Compose y Kubernetes co
 
 - Sprint 1: https://www.youtube.com/watch?v=pCTwkz9yQgE
 - Sprint 2: https://www.youtube.com/watch?v=5JV09eLksvY
+- Expo: https://www.youtube.com/watch?v=IFQybxXsgxo
 
 ## Descripción del Proyecto
 
